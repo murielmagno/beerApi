@@ -1,6 +1,5 @@
 package br.com.murielmagno.beerApi.entity;
 
-
 import br.com.murielmagno.beerApi.enums.BeerType;
 import lombok.AllArgsConstructor;
 import lombok.Data;
